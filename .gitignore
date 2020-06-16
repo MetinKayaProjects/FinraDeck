@@ -1,3 +1,4 @@
 target/
 .idea/
 FinraDeck.iml
+.DS_Store
